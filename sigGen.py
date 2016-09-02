@@ -4,6 +4,7 @@ from PIL import ImageTk, Image
 
 
 class SigGen(Tk):
+
     def __init__(self):
         Tk.__init__(self)
 
@@ -16,11 +17,11 @@ class SigGen(Tk):
         self.cEmail = Entry(self, width=30)
         self.photoURL = Entry(self, width=62)
 
-        #Photo
+        # Photo
         self.image = Image.open("img/rebdlogo.jpg")
         self.display = ImageTk.PhotoImage(image=self.image)
         self.imgLabel = Label(self, image=self.display)
-        self.imgLabel.grid(row=0,columnspan=2)
+        self.imgLabel.grid(row=0, columnspan=2)
 
         # Labels
         self.fNameLabel = Label(self, text="First Name\n")
@@ -31,7 +32,8 @@ class SigGen(Tk):
         self.cEmailLabel = Label(self, text="Company Email\n")
         self.photoURLLabel = Label(self, text="Agent Photo URL\n")
         self.signatureDone = Label(self, text="\nSignature created!", height=2)
-        self.button = Button(self, text="Create Signature", command=self.on_button)
+        self.button = Button(self, text="Create Signature",
+                             command=self.on_button)
         self.exitButton = Button(self, text="Done", command=self.close_window)
 
         # Label Grid
@@ -295,7 +297,7 @@ class SigGen(Tk):
             "</table>\n" +
             "</body>\n" +
             "</html>"
-            )
+        )
 
     def close_window(self):
         sys.exit()
@@ -303,7 +305,7 @@ class SigGen(Tk):
 app = SigGen()
 app.wm_title("REBD Email Signature Generator")
 app.resizable(width=False, height=False)
-app.geometry('{}x{}'.format(445,450))
+app.geometry('{}x{}'.format(445, 450))
 app.call("wm", "attributes", ".", "-topmost", "1")
 app.lift()
 app.mainloop()

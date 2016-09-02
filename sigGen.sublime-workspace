@@ -1,0 +1,653 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"colu",
+				"columnspan"
+			],
+			[
+				"clu",
+				"columnspan"
+			],
+			[
+				"curr",
+				"current-menu-item"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"app",
+				"appointmentsCity"
+			],
+			[
+				"appointmen",
+				"appointmentsEmail"
+			],
+			[
+				"admin_init",
+				"admin_init_vitality"
+			],
+			[
+				"owl",
+				"owl-carousel"
+			],
+			[
+				"getRemote",
+				"getRemote_information"
+			],
+			[
+				"wp_remote",
+				"wp_remote_retrieve_response_code"
+			],
+			[
+				"style",
+				"style_pixelytics"
+			],
+			[
+				"pixel",
+				"pixel_id"
+			],
+			[
+				"plugin",
+				"plugin_dir_path"
+			],
+			[
+				"navbar",
+				"navbar-sticky"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sigGen.py",
+			"settings":
+			{
+				"buffer_size": 16959,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "pep8",
+		"selected_items":
+		[
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as Python Syntax"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"indn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"css",
+				"Autoprefix CSS"
+			],
+			[
+				"come",
+				"Toggle Comment"
+			],
+			[
+				"format js",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"javac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"view ",
+				"View In Browser"
+			],
+			[
+				"fmphp",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"fmhtml",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"fmhtm",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"fmjs",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fmcss",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"htp",
+				"HTMLPrettify"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"formatphp",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"fmht",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"format html",
+				"CodeFormatter: Format as HTML Syntax"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/maxazarcon/Documents/GIT/sigGen"
+	],
+	"file_history":
+	[
+		"/Users/maxazarcon/Documents/GIT/pixelytics/options.php",
+		"/Users/maxazarcon/Documents/GIT/pixelytics/includes/registers.php",
+		"/Users/maxazarcon/Documents/GIT/pixelytics/admin/class-pixelytics-pixel.php",
+		"/Users/maxazarcon/Documents/GIT/pixelytics/pixelytics.php",
+		"/Users/maxazarcon/Documents/GIT/pixelytics/README.md",
+		"/Users/maxazarcon/Documents/GIT/pixelytics/.gitignore",
+		"/Users/maxazarcon/PycharmProjects/SigGen/sigGen.py",
+		"/Users/maxazarcon/Documents/signature3.html",
+		"/Users/maxazarcon/Documents/sigGen/sigGen.py",
+		"/Users/maxazarcon/Documents/Local Server/rebd/sig/index.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/rebd.js",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/wp-single-x-portfolio.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/page.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/page-header.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/header.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/main.js",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/style.css",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/wp-config.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/topcontact.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/themes/sevenages_brand/header.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/quote.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/appointments.php",
+		"/Users/maxazarcon/Downloads/orcpub.orcpub",
+		"/Users/maxazarcon/Documents/Local Server/brand/js/main.js",
+		"/Users/maxazarcon/Documents/Local Server/brand/css/main.css",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/jquery.easing.min.backup.js",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/owl.carousel.js",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/_content-post-header.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/_index 2.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/_content.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/_content-the-content.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/_comments-template.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/wp-single.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/themes/vitality/single-vitality_section.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/themes/vitality/assets/js/contact_me.js",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/themes/vitality/assets/js/vitality.js",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/market-page.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/idx-pages.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/themes/vitality/vitality/creative.html",
+		"/Users/maxazarcon/Documents/Pixelytics Releases/1.2.3/pixelytics/admin/class-pixelytics-pixel.php",
+		"/Users/maxazarcon/Documents/Pixelytics Releases/1.2.3/pixelytics/admin/class-pixelytics-update.php",
+		"/Users/maxazarcon/Documents/Pixelytics Releases/1.2.2/pixelytics/options.php",
+		"/Users/maxazarcon/Documents/Pixelytics Releases/1.3.0/pixelytics/admin/class-pixelytics-pixel.php",
+		"/Users/maxazarcon/Documents/Pixelytics Releases/1.3.0/pixelytics/includes/class-pixelytics-activator.php",
+		"/Users/maxazarcon/Documents/Pixelytics Releases/1.2.2/pixelytics/css/style.css",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/update.php",
+		"/Users/maxazarcon/Documents/Pixelytics Releases/1.2.2/pixelytics/pixelytics.php",
+		"/Users/maxazarcon/Documents/Pixelytics Releases/1.2.1/pixelytics/options.php",
+		"/Applications/MAMP/bin/php/php7.0.0/conf/php.ini",
+		"/Applications/MAMP/bin/php/php7.0.0/conf/pear.conf",
+		"/Users/maxazarcon/Documents/Local Server/order/order.js",
+		"/Users/maxazarcon/Documents/Local Server/order/index.html",
+		"/Users/maxazarcon/Downloads/ninezeroseven/assets/css/layout.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/class-smtp.php",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/class-wp-http-cookie.php",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/js/crop/cropper.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/css/dashicons.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/css/editor-rtl.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/css/editor.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/formatting.php",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-content/themes/twentysixteen/genericons/genericons.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-content/themes/twentyfifteen/genericons/genericons.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-content/themes/twentyfourteen/genericons/genericons.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/ID3/module.audio-video.quicktime.php",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/ID3/module.audio-video.riff.php",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-admin/css/nav-menus-rtl.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-admin/css/nav-menus-rtl.min.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-admin/css/nav-menus.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-admin/css/nav-menus.min.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/js/tinymce/plugins/charmap/plugin.js",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/js/tinymce/plugins/charmap/plugin.min.js",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-admin/includes/schema.php",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-content/themes/twentyfifteen/style.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-content/themes/twentysixteen/style.css",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-includes/js/swfupload/swfupload.js",
+		"/Users/maxazarcon/Downloads/Wordpress/wordpress 4.5.3/wp-admin/includes/upgrade.php",
+		"/Users/maxazarcon/Downloads/ninezeroseven/admin/zilla-shortcodes/shortcodes.css",
+		"/Users/maxazarcon/Downloads/ninezeroseven/mobile-media-queries.css",
+		"/Users/maxazarcon/Downloads/ninezeroseven/assets/css/base.css",
+		"/Users/maxazarcon/Downloads/ninezeroseven/admin/assets/css/admin-style.css",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/functions.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/custom-header.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/pixelytics/includes/class-pixelytics-activator.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/pixelytics/includes/class-pixelytics-deactivator.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/pixelytics/options.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/pixelytics/pixelytics.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/pixelytics/.gitignore",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/pixelytics/js/pixelytics.js",
+		"/Users/maxazarcon/Documents/GIT/pixelytics/css/style.css",
+		"/Users/maxazarcon/Documents/GIT/pixelytics/js/pixelytics.js",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/pixelytics/css/style.css",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/sevenages_seo/sevenages_seo.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/sevenages_seo/includes/class-sevenages_seo.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/sevenages_seo/includes/class-sevenages_seo-activator.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/pixelytics/includes/class-pixelytics.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/pixelytics/admin/class-pixelytics-admin.php",
+		"/Users/maxazarcon/Documents/Local Server/rebdcontact/style.css",
+		"/Users/maxazarcon/Documents/Local Server/rebdcontact/index.html",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/sevenages_seo/admin/partials/sevenages_seo-admin-display.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-content/plugins/sevenages_seo/admin/class-sevenages_seo-admin.php",
+		"/Users/maxazarcon/Documents/Local Server/wpdev/wp-config.php",
+		"/Users/maxazarcon/Documents/sublimekey.txt",
+		"/Users/maxazarcon/Documents/GIT/sevenages_seo/sevenages_seo.php",
+		"/Users/maxazarcon/Documents/GIT/sevenages_seo/includes/class-sevenages_seo.php",
+		"/Users/maxazarcon/Documents/GIT/sevenages_seo/admin/class-sevenages_seo-admin.php",
+		"/Users/maxazarcon/Documents/GIT/sevenages_analytics/sevenages_analytics.php",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/shutters.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/zebulon-blinds-and-shutters.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/treatments.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/shades.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/wake-forest-blinds-and-shutters.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/youngsville-blinds-and-shutters.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/rolesville-blinds-and-shutters.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/promotions.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/morrisville-blinds-and-shutters.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/knightdale-window-treatments-blinds.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/index.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/holly-springs-blinds-and-shutters.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/hillsborough-window-treatments-blinds.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/garner-blinds-and-shades.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/fuquay-varina-window-treatments-blinds.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/faq.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/durham-window-treatments-blinds.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/draperies.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/clayton-blinds-and-shutters.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/chapel-hill-window-treatments-blinds.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/appointments.html",
+		"/private/var/folders/sx/gbhfqqjx5qgd3k3sjyv4v06h0000gp/T/fz3temp-1/cary-blinds-and-shutters.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"&gt;",
+			"&lt;",
+			"enable",
+			"$j",
+			"aa343e",
+			"q",
+			"half",
+			"inner-menu",
+			"header",
+			"half",
+			"fonts",
+			"li.active",
+			"colors",
+			"brand",
+			"mobile-nav",
+			"#mobile-nav",
+			"mobile-nav",
+			"main-nav",
+			"nav",
+			"mobile-nav",
+			">\n",
+			"by",
+			"background-image",
+			"options.php",
+			"background",
+			"background-image",
+			"E_WARNING",
+			"~E_NOTICE",
+			"E_NOTICE",
+			"e_notice",
+			"error_reporting",
+			"current",
+			"version",
+			"]",
+			"210",
+			"210px",
+			"210",
+			"wp_nav",
+			"wp_get_nav",
+			"nzs_menu_class",
+			"city",
+			"plugin",
+			"new",
+			"add_plugin",
+			"plugin_name",
+			"admin_hooks",
+			"admin",
+			"define_admin_hooks",
+			"mobiwp-opener",
+			"58",
+			"images/",
+			"images",
+			";\n",
+			"menu-item-has-children",
+			"354574",
+			"letter-spacing",
+			"contact",
+			"h4",
+			"homemain",
+			"main p",
+			"p",
+			"tfsection",
+			"h2",
+			"playfair",
+			"tfsection",
+			"topnav",
+			"margin-top: 7%",
+			"navbar-brand im",
+			"nav img",
+			"navbar-brand",
+			".navbar",
+			"margin-bottom: 20px",
+			"nav",
+			"Real Estate by Design",
+			"real estate by design",
+			"rebd_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\"",
+			">",
+			"<",
+			"$",
+			"0082C9",
+			"h1",
+			"REBD Agent",
+			"agent_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sigGen.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4965,
+								4965
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1589.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sigGen.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
